@@ -1,0 +1,5 @@
+{
+  "description": "---\n\n### **Tips untuk Melanjutkan:**\n\n1.  **Fokus pada Logika:** Jika AI mulai menawarkan kode React atau HTML, ingatkan: *\"No UI, just TypeScript logic for the agent.\"*\n2.  **Debugging:** Minta AI untuk membuat script test (`test_rrm.ts`) yang berisi contoh soal ARC (input grid dan output grid) untuk memverifikasi apakah agen berhasil menyelesaikan soal multi-langkah.\n3.  **Iterasi:** Mulai dengan kedalaman rekursi (depth) \u003d 2. Jangan terlalu dalam dulu agar tidak *stack overflow*.\n\nSemoga sukses melanjutkan proyek ARC ini! Idenya sangat menarik untuk membangun *Recursive Reasoning Machine*.",
+  "requestFramePermissions": [],
+  "name": "Remix: Remix: App"
+}
